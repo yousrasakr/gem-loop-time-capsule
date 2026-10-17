@@ -43,8 +43,8 @@ Built as a demo for the hackathon and qualified for the participant stage. It is
 ## Project materials
 
 - 📄 Presentation: `slides/GEM_Loop_Presentation.pdf`
-- 🎬 Demo video: *(add link)*
-- 🖼️ Screens: `screenshots/`
+- 🎬 Demo video: *on the same repo*
+
 
 ## Team
 
